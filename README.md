@@ -3,16 +3,6 @@
 
 ### Department of Computer Science and Engineering  
 **Course:** UE23CS352A – Machine Learning Hackathon  
-**Team:** Hackman  
-
-| Name | SRN | Section |
-|------|------|---------|
-| Praagnya Parimi | PES2UG23CS417 | G |
-| Preksha | PES2UG23CS443 | G |
-| Priyanka Satish | PES2UG23CS450 | G |
-| Priyanka Shankar Naik | PES2UG23CS451 | G |
-
----
 
 ## 📘 Project Overview
 
