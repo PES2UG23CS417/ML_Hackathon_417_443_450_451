@@ -49,7 +49,7 @@ Our hybrid approach leverages:
 1. Clone this repository:
    ```bash
    git clone https://github.com/PES2UG23CS417/ML_Hackathon_417_443_450_451.git
-   cd Hangman-ML-Agent
+   cd ML_Hackathon_417_443_450_451
 
 2. Open Notebook:
    ```bash
