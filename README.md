@@ -60,3 +60,10 @@ Our hybrid approach leverages:
    ```bash
    git clone https://github.com/<your-username>/Hangman-ML-Agent.git
    cd Hangman-ML-Agent
+
+2. Open Notebook:
+   ```bash
+   jupyter notebook 417_443_450_451.ipynb
+
+3. Run all cells sequentially to train and evaluate the agent.
+
